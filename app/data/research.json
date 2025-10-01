@@ -1,0 +1,26 @@
+[
+  {
+    "title": "IoTSAMS: A Novel Framework for Internet of Things (IoT) Based Smart Attendance Management System",
+    "icon": "📑",
+    "description": "Automated attendance management system will reduce complexity by eliminating plenty of manual processes involved in attendance system and calculating hours attended. This paper presents a simple technique of taking student attendance in the form of an Internet of Things (IoT) based system that records the attendance using fingerprint-based system and stores them securely in a database. We use NodeMCUV3, RFID Module and Fingerprint sensor module in our system. The fingerprint module is responsible for authentication of the students. RFID Module is used to scan the RFID tag and sends data to the central server. By using this information, the system will generate an attendance report which can be accessed for further use.",
+    "links": [
+      {
+        "label": "Paper Link",
+        "url": "https://www.scirp.org/journal/paperinformation.aspx?paperid=86712&jsback=false"
+      },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "Towards the development of an energy-efficient smart home through IoT",
+    "icon": "📑",
+    "description": "Smart home is one of the emerging technologies in the Internet of Things (IoT) era that decorates house equipment into being more intelligent, remote controllable, and interconnected. For this reason, researchers have made significant advancement in developing smart home. However, there is scarcity of a complete system in the market that provides a total solution. In this paper, a complete 3-room apartment automation system developed using Arduino, Bluetooth and Android has been proposed. Our proposed system can control several home appliances such as lights, fans, bulbs and many more using on/off relay and android application. The system has been implemented for a 3-room apartment that confirms cost and energy efficient than the manual system which is 28% less in terms of cost.",
+    "links": [
+      {
+        "label": "Paper Link",
+        "url": "https://www.accentsjournals.org/paperInfo.php?journalPaperId=1168&countPaper=35&fbclid=IwAR0cRT2p5ULIyVGmOG-oUJDAbZGacVnUkC3m0bXNoJpQOH_a7TUERFpsGoY"
+      },
+      { "label": "GitHub", "url": "#" }
+    ]
+  }
+]

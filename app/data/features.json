@@ -1,0 +1,152 @@
+[
+  {
+    "title": "BAT Factory ERP(Avenir)",
+    "icon": "⚙️",
+    "description": "BAT Factory ERP (Avenir) is an enterprise system used across factories in Bangladesh and Sri Lanka to manage end-to-end operations. It tracks team and machine performance, production output, issue handling, maintenance, training, and departmental health checks, with comprehensive dashboards and reporting.",
+    "links": [
+      { "label": "Live Demo", "url": "#" },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "upay Salary Disbursement",
+    "icon": "💰",
+    "description": "Upay Salary Disbursement is a digital solution that enables organizations to securely transfer salaries directly to employees’ mobile financial accounts. It simplifies payroll management, reduces cash handling, and ensures fast, transparent salary distribution.",
+    "links": [
+      { "label": "Live Demo", "url": "#" },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "upay Merchant Management",
+    "icon": "💰",
+    "description": "Upay Merchant Management is a platform that allows businesses to onboard, manage, and track their merchant accounts. It helps with payment collections, transaction monitoring, settlement reports, and overall merchant lifecycle management.",
+    "links": [
+      { "label": "Live Demo", "url": "#" },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "Upay Payment Gateway",
+    "icon": "💰",
+    "description": "Upay Payment Gateway is a mobile financial system that enables businesses and individuals to process digital payments securely and efficiently. It supports seamless transactions for bills, e-commerce, and services, providing a reliable bridge between customers and merchants.",
+    "links": [
+      { "label": "Live Demo", "url": "#" },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "upay B2B System",
+    "icon": "💰",
+    "description": "The upay B2B System is a web application built for managing and integrating third-party services such as NPSB, Ekpay, NESCO, DPDC, Regnum Toll, and education fees etc. It streamlines transactions, reporting, and integrations in one centralized platform.",
+    "links": [
+      { "label": "Live Demo", "url": "#" },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "Epaekup - Money Transfer App",
+    "icon": "💰",
+    "description": "Epaekup is a money transfer app launched in 2019 that makes it easy to send money from Australia to Bangladesh quickly and at very low cost. With thousands of customers already on board, it’s built a strong reputation for fast, secure, and affordable transfers.",
+    "links": [
+      { "label": "Live Demo", "url": "#" },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "BD Number - NPM Package",
+    "icon": "🔧",
+    "description": "Open-source NPM package for converting numbers between Bengali and English formats. Widely used by developers in Bangladesh for localization projects.",
+    "links": [
+      { "label": "NPM", "url": "https://www.npmjs.com/package/bd_number" },
+      { "label": "GitHub", "url": "https://github.com/1mt142/bd_number" }
+    ]
+  },
+  {
+    "title": "IG Downloader Pro",
+    "icon": "📥",
+    "description": "Chrome extension for downloading Instagram images and videos, including carousel posts. Built with modern web technologies and optimized for performance.",
+    "links": [
+      {
+        "label": "Chrome Store",
+        "url": "https://chromewebstore.google.com/detail/ig-downloader-pro/jiadfdbggbbncbpekpampldhhgeadeon"
+      },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "YouTube Safe Browse",
+    "icon": "🛡️",
+    "description": "Chrome extension to filter adult content and provide a cleaner YouTube browsing experience. Implements advanced content filtering algorithms.",
+    "links": [
+      { "label": "GitHub", "url": "#" },
+      { "label": "Demo", "url": "#" }
+    ]
+  },
+  {
+    "title": "E-commerce Platform",
+    "icon": "💼",
+    "description": "Full-stack e-commerce solution with admin dashboard, payment gateway integration (Bkash, Nagad, Stripe, PayPal), and SMS/Email notification system.",
+    "links": [
+      { "label": "Live Demo", "url": "https://ebiponi.com.bd/" },
+      { "label": "Case Study", "url": "#" }
+    ]
+  },
+  {
+    "title": "Data Migration Tools",
+    "icon": "🛠",
+    "description": "Built scalable data migration tools for Lyftrondata with real-time processing capabilities, queue management with RabbitMQ, and comprehensive API services.",
+    "links": [
+      { "label": "Documentation", "url": "#" },
+      { "label": "GitHub", "url": "#" }
+    ]
+  },
+  {
+    "title": "CLI Tools for MAC OS",
+    "icon": "🛠",
+    "description": "A lightweight CLI tool (written in Go) to display a directory tree structure with a customizable depth. Works globally on macOS after installation.",
+    "links": [
+      {
+        "label": "Documentation",
+        "url": "https://github.com/1mt142/show-tree"
+      },
+      { "label": "GitHub", "url": "https://github.com/1mt142/show-tree" }
+    ]
+  },
+  {
+    "title": "Bengali Text-to-Speech - Web App",
+    "icon": "🗣",
+    "description": "A Streamlit web application that converts Bengali text to natural-sounding speech using Facebook's MMS-TTS Bengali model.",
+    "links": [
+      {
+        "label": "Documentation",
+        "url": "https://github.com/1mt142/bangla-text-to-speech-ai"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/1mt142/bangla-text-to-speech-ai"
+      }
+    ]
+  },
+  {
+    "title": "Nirikshon: Real-Time Object Detection System",
+    "icon": "🛠",
+    "description": "This system utilizes an HD camera and AI-powered object detection to identify harmful or unexpected objects in different environments using trained data models.",
+    "links": [
+      {
+        "label": "Documentation",
+        "url": "https://github.com/1mt142/nirikshon_ai"
+      },
+      { "label": "GitHub", "url": "https://github.com/1mt142/nirikshon_ai" }
+    ]
+  },
+  {
+    "title": "Currency Converter Pro",
+    "icon": "💱",
+    "description": "A responsive, multi-currency conversion tool that works completely client-side",
+    "links": [
+      { "label": "Documentation", "url": "https://currency.ebiponi.com.bd/" },
+      { "label": "GitHub", "url": "https://currency.ebiponi.com.bd/" }
+    ]
+  }
+]

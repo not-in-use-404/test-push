@@ -1,0 +1,35 @@
+[
+  {
+    "category": "Languages",
+    "items": ["JavaScript", "TypeScript", "Python", "Golang"]
+  },
+  {
+    "category": "Backend",
+    "items": ["Node.js", "Express.js", "NestJS", "Django REST"]
+  },
+  {
+    "category": "Frontend",
+    "items": ["React.js", "Redux", "Bootstrap", "TailwindCSS"]
+  },
+  {
+    "category": "Database",
+    "items": ["MySQL", "PostgreSQL", "MSSQL"]
+  },
+  {
+    "category": "Tools & DevOps",
+    "items": [
+      "Docker",
+      "Redis",
+      "Socket.IO",
+      "Git",
+      "CI/CD",
+      "Elasticsearch",
+      "Kibana",
+      "Grafana"
+    ]
+  },
+  {
+    "category": "Cloud",
+    "items": ["AWS EC2", "AWS S3", "CloudFront", "Azure"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "jobTitle": "Fullstack Engineer (Team Lead)",
+    "company": "British American Tobacco Bangladesh x Apsis",
+    "duration": "Mar 2024 - Present",
+    "totalCount": "1.5 Years",
+    "description": "Built real-time notifications, live control, and user activity tracking using Socket.IO. Managed client/team meetings and task coordination. Integrated SSO authentication and improved auth security, resolved VAPT issues. Developed APIs for BAT Avenir, TMS, and Playbook. Deployed applications on Azure.",
+    "techStack": ["Node.js", "NestJS", "Next.js", "Socket.IO", "Redis", "Azure"]
+  },
+  {
+    "jobTitle": "Sr. Software Engineer",
+    "company": "Lyftrondata",
+    "duration": "Oct 2023 - Feb 2024",
+    "totalCount": "6 Months",
+    "description": "Developed APIs based on business requirements for Lyftrondata Migration Tools. Developed Core Auth system of LyftronData. Refactored and simplified codebase to eliminate unnecessary repetition.",
+    "techStack": [
+      "Express.js",
+      "RabbitMQ",
+      "NestJS",
+      "React.js",
+      "PostgreSQL",
+      "Django REST"
+    ]
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "UCB Fintech Company Limited (Upay)",
+    "duration": "Oct 2020 - Sep 2023",
+    "totalCount": "3 Years",
+    "description": "Developed Merchant, B2B, Salary Disbursement, and Upay Payment Gateway. Scheduled salary disbursements using Celery with queue processing. Ensured data consistency, optimized database queries, and implemented Redis caching.",
+    "techStack": [
+      "Node.js",
+      "Django REST",
+      "React.js",
+      "Redis",
+      "AWS S3",
+      "Docker"
+    ]
+  },
+  {
+    "jobTitle": "Software Engineer - Backend",
+    "company": "SoftThreat",
+    "duration": "Sept 2019 - Sept 2020",
+    "totalCount": "1 Year +",
+    "descriptionList": [
+      "Developed the API service of a DFS platform called ePeakup (Backend)",
+      "Developed the API service of a POS System called DigitalShop (Backend)",
+      "Developed an e-commerce platform called Sopx (Frontend-Backend)",
+      "Involved in the R&D Team"
+    ],
+    "techStack": ["Node.js", "Laravel", "PHP", "MySQL"]
+  },
+  {
+    "jobTitle": "Assistant Software Engineer - Backend",
+    "company": "Agile Codex Ltd.",
+    "duration": "March 2019 - Aug 2020",
+    "totalCount": "6 Months",
+    "descriptionList": [
+      "Working on a Point of Sales Project",
+      "Maintenance of an e-commerce Project",
+      "Fix Live Issues of different projects"
+    ],
+    "techStack": ["Laravel", "PHP", "MySQL"]
+  }
+]
