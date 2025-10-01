@@ -20,16 +20,18 @@
     "items": [
       "Docker",
       "Redis",
+      "RabbitMQ",
       "Socket.IO",
       "Git",
       "CI/CD",
       "Elasticsearch",
       "Kibana",
-      "Grafana"
+      "Grafana",
+      "Prometheus"
     ]
   },
   {
     "category": "Cloud",
-    "items": ["AWS EC2", "AWS S3", "CloudFront", "Azure"]
+    "items": ["AWS EC2", "AWS S3", "AWS Lambda", "CloudFront", "Azure"]
   }
 ]
